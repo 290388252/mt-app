@@ -19,7 +19,7 @@
     "koa-router": "^8.0.8",
     "mongoose": "^5.9.3",
     "node-mailer": "^0.1.1",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "nuxt": "^2.0.0",
     "sass-loader": "^7.1.0"
   },
